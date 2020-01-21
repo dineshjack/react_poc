@@ -1,3 +1,3 @@
 # react_poc
 
-react CURD application
+react CRUD application
